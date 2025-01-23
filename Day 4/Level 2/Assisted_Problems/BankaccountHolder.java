@@ -1,4 +1,4 @@
- class Bank { 
+class Bank {
     public void openAccount(customer c){
     // open class is a method which is taking the object of the customer class as an argument
         System.out.println("Welcome "+c.getname()+" to Fedral Bank");
